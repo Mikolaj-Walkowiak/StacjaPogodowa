@@ -1,0 +1,18 @@
+Added Component: Designator=MCU(SEEED_113990105)
+Add component (AddParameter): Name = "Availability"; Value = "Unavailable"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "MF"; Value = "Seeed Technology"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "MP"; Value = "NodeMCU v2"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Package"; Value = "None"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Price"; Value = "None"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "SnapEDA_Link"; Value = "https://www.snapeda.com/parts/NodeMCU%20v2/Seeed%20Technology%20Co.%2C%20Ltd/view-part/378076/?ref=snap"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Value"; Value = ""; VariantName = "[No Variations]"
+Added Pin To Net: NetName=GND Pin=MCU-J1_10
+Added Pin To Net: NetName=GND Pin=MCU-J1_14
+Added Pin To Net: NetName=GND Pin=MCU-J2_7
+Added Pin To Net: NetName=NetAT_19 Pin=MCU-J2_8
+Added Pin To Net: NetName=NetAT_18 Pin=MCU-J2_9
+Added Pin To Net: NetName=NetAT_17 Pin=MCU-J2_10
+Added Pin To Net: NetName=NetAT_16 Pin=MCU-J2_11
+Added Pin To Net: NetName=NetAT_15 Pin=MCU-J2_12
+Added Pin To Net: NetName=GND Pin=MCU-J2_14
+Added Member To Class: ClassName=main Member=Component MCU 113990105

@@ -1,0 +1,21 @@
+<!DOCTYPE html>
+<html lang="en">
+  <head>
+    <meta charset="utf-8">
+    <title>Nixie Weather Station</title>
+    <script src="index.js"></script>
+  </head>
+  <body>
+    <div>time: <span id="time"></span></div>
+	<div>temperature: <span id="temperature"></span> °C</div>
+	<div>humidity: <span id="humidity"></span>%</div>
+	<div>pressure: <span id="pressure"></span> hPa</div>
+	<br>
+	<div>Weather data source:</div>
+	<input type="radio" id="internet" name="source" value="internet">
+	<label for="internet">Open Weather Map</label><br>
+	<input type="radio" id="sensor" name="source" value="sensor">
+	<label for="sensor">Sensor</label><br>
+	<button onclick="sendConfig()">Send</button>
+  </body>
+</html>

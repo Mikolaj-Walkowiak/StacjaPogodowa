@@ -1,0 +1,12 @@
+Change Component Designator: Old Designator=Bar+ New Designator=Bar+1
+Change Component Designator: Old Designator=Bar- New Designator=Bar-1
+Change Component Designator: Old Designator=C1 New Designator=C4
+Change Component Designator: Old Designator=C2 New Designator=C8
+Change Component Designator: Old Designator=C? New Designator=C1
+Change Component Designator: Old Designator=C? New Designator=C2
+Change Component Designator: Old Designator=C? New Designator=C3
+Change Component Designator: Old Designator=C? New Designator=C5
+Change Component Designator: Old Designator=C? New Designator=C6
+Change Component Designator: Old Designator=C? New Designator=C7
+Change Component Designator: Old Designator=Clock New Designator=Clock1
+Change Component Designator: Old Designator=J New Designator=J1

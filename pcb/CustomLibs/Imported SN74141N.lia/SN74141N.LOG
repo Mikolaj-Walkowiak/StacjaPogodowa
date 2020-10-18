@@ -1,0 +1,28 @@
+PCAD Importer Log
+Project : SN74141N.LibPkg
+
+Section : C:\Users\mwalk\AppData\Local\Temp\Rar$DRa8656.2332\SN74141N.lia
+    Section : PCB Library - SN74141N.PcbLib
+        Section : Load Messages
+            Warning - 1 : Skipping Token SN74141N On Line 127
+            Warning - 1 : Skipping Token attachedSymbol On Line 314
+        EndSection
+
+        Section : Import Messages
+        EndSection
+    EndSection
+
+    Section : SCH Library - SN74141N.SchLib
+        Section : Parsing Messages
+            Warning - 1 : Skipping Token padStyleDef On Line 9
+            Warning - 1 : Skipping Token multiLayer On Line 84
+            Warning - 1 : Skipping Token layerContents On Line 102
+            Warning - 1 : Skipping Token layerContents On Line 108
+            Warning - 1 : Skipping Token layerContents On Line 113
+            Warning - 1 : Skipping Token layerContents On Line 119
+        EndSection
+
+        Section : Generating SCH Library - SN74141N.SchLib
+        EndSection
+    EndSection
+EndSection

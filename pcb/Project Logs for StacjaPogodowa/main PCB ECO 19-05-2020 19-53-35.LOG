@@ -1,0 +1,57 @@
+Removed Member From Class: ClassName=main Member=POWER1
+Added Component: Designator=Bar+(HDR1X3)
+Add component (AddParameter): Name = "LatestRevisionDate"; Value = "17-Jul-2002"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "LatestRevisionNote"; Value = "Re-released for DXP Platform."; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Publisher"; Value = "Altium Limited"; VariantName = "[No Variations]"
+Added Component: Designator=Bar-(HDR1X3)
+Add component (AddParameter): Name = "LatestRevisionDate"; Value = "17-Jul-2002"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "LatestRevisionNote"; Value = "Re-released for DXP Platform."; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Publisher"; Value = "Altium Limited"; VariantName = "[No Variations]"
+Added Component: Designator=Clock(HDR1X6)
+Add component (AddParameter): Name = "LatestRevisionDate"; Value = "17-Jul-2002"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "LatestRevisionNote"; Value = "Re-released for DXP Platform."; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Publisher"; Value = "Altium Limited"; VariantName = "[No Variations]"
+Added Pin To Net: NetName=NetBar+_1 Pin=Bar+-1
+Added Pin To Net: NetName=NetBar+_1 Pin=R9-1
+Added Net: Name=NetBar+_1
+Added Pin To Net: NetName=NetBar+_2 Pin=Bar+-2
+Added Pin To Net: NetName=NetBar+_2 Pin=R8-1
+Added Net: Name=NetBar+_2
+Added Pin To Net: NetName=NetBar+_3 Pin=Bar+-3
+Added Pin To Net: NetName=NetBar+_3 Pin=R7-1
+Added Net: Name=NetBar+_3
+Added Pin To Net: NetName=NetBar-_1 Pin=Bar--1
+Added Pin To Net: NetName=NetBar-_1 Pin=Q3-2
+Added Pin To Net: NetName=NetBar-_1 Pin=R5-1
+Added Net: Name=NetBar-_1
+Added Pin To Net: NetName=NetBar-_2 Pin=Bar--2
+Added Pin To Net: NetName=NetBar-_2 Pin=Q2-2
+Added Pin To Net: NetName=NetBar-_2 Pin=R4-1
+Added Net: Name=NetBar-_2
+Added Pin To Net: NetName=NetBar-_3 Pin=Bar--3
+Added Pin To Net: NetName=NetBar-_3 Pin=Q1-2
+Added Pin To Net: NetName=NetBar-_3 Pin=R6-1
+Added Net: Name=NetBar-_3
+Added Pin To Net: NetName=NetClock_1 Pin=Clock-1
+Added Pin To Net: NetName=NetClock_1 Pin=R12-2
+Added Net: Name=NetClock_1
+Added Pin To Net: NetName=NetClock_2 Pin=Clock-2
+Added Pin To Net: NetName=NetClock_2 Pin=R13-2
+Added Net: Name=NetClock_2
+Added Pin To Net: NetName=NetClock_3 Pin=Clock-3
+Added Pin To Net: NetName=NetClock_3 Pin=R14-2
+Added Net: Name=NetClock_3
+Added Pin To Net: NetName=NetClock_4 Pin=Clock-4
+Added Pin To Net: NetName=NetClock_4 Pin=R15-2
+Added Net: Name=NetClock_4
+Added Pin To Net: NetName=NetClock_5 Pin=Clock-5
+Added Pin To Net: NetName=NetClock_5 Pin=R16-2
+Added Net: Name=NetClock_5
+Added Pin To Net: NetName=NetClock_6 Pin=Clock-6
+Added Pin To Net: NetName=NetClock_6 Pin=R17-2
+Added Net: Name=NetClock_6
+Added Member To Class: ClassName=main Member=Component Bar+ Header 3
+Added Member To Class: ClassName=main Member=Component Bar- Header 3
+Added Member To Class: ClassName=main Member=Component C2 Cap2
+Added Member To Class: ClassName=main Member=Component Clock Header 6
+Added Member To Class: ClassName=main Member=Component R4 330

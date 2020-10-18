@@ -1,0 +1,29 @@
+PCAD Importer Log
+Project : AK300_2-5_0-GRAU.LibPkg
+
+Section : C:\Users\mwalk\AppData\Local\Temp\Rar$DRa26916.13269\AK300_2-5_0-GRAU.lia
+    Section : PCB Library - AK300_2-5_0-GRAU.PcbLib
+        Section : Load Messages
+            Warning - 1 : Skipping Token AK300/2-5,0-GRAU On Line 131
+            Warning - 1 : Skipping Token attachedSymbol On Line 178
+        EndSection
+
+        Section : Import Messages
+        EndSection
+    EndSection
+
+    Section : SCH Library - AK300_2-5_0-GRAU.SchLib
+        Section : Parsing Messages
+            Warning - 1 : Skipping Token padStyleDef On Line 9
+            Warning - 1 : Skipping Token padStyleDef On Line 21
+            Warning - 1 : Skipping Token multiLayer On Line 96
+            Warning - 1 : Skipping Token layerContents On Line 100
+            Warning - 1 : Skipping Token layerContents On Line 108
+            Warning - 1 : Skipping Token layerContents On Line 116
+            Warning - 1 : Skipping Token layerContents On Line 123
+        EndSection
+
+        Section : Generating SCH Library - AK300_2-5_0-GRAU.SchLib
+        EndSection
+    EndSection
+EndSection

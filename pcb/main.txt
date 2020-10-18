@@ -1,0 +1,191 @@
+Board Information Report
+Filename     : D:\studia\psue\StacjaPogodowa\main.PcbDoc
+Date         : 21.05.2020
+Time         : 00:30:04
+Time Elapsed : 00:00:00
+
+General
+    Board Size, 5980milsx2825mils
+    Components on board, 50
+count : 2
+
+Routing Information
+    Routing completion, 100,00%
+    Connections, 181
+    Connections routed, 181
+    Connections remaining, 0
+count : 4
+
+Layer, Arcs, Pads, Vias, Tracks, Texts, Fills, Regions, ComponentBodies
+    Top Layer, 0, 0, 0, 544, 0, 0, 0, 0
+    Bottom Layer, 0, 0, 0, 272, 0, 0, 0, 0
+    Mechanical 1, 0, 0, 0, 4, 0, 0, 0, 6
+    Mechanical 4, 0, 0, 0, 8, 0, 0, 0, 0
+    Mechanical 13, 12, 0, 0, 78, 0, 0, 0, 0
+    Mechanical 15, 4, 0, 0, 60, 0, 0, 0, 0
+    Multi-Layer, 0, 316, 0, 0, 0, 0, 1, 0
+    Top Paste, 0, 0, 0, 0, 0, 0, 0, 0
+    Top Overlay, 22, 0, 0, 224, 100, 4, 0, 0
+    Top Solder, 0, 0, 0, 0, 0, 0, 0, 0
+    Bottom Solder, 0, 0, 0, 0, 0, 0, 0, 0
+    Bottom Overlay, 0, 0, 0, 0, 0, 0, 0, 0
+    Bottom Paste, 0, 0, 0, 0, 0, 0, 0, 0
+    Drill Guide, 0, 0, 0, 0, 0, 0, 0, 0
+    Keep-Out Layer, 0, 0, 0, 0, 0, 0, 0, 0
+    Drill Drawing, 0, 0, 0, 0, 0, 0, 0, 0
+count : 16
+
+Drill Pairs, Vias
+count : 0
+
+Layer, Sq.In., Sq.MM., Percent of layer
+    Top Layer, 2,38, 1535,76, 14%
+    Bottom Layer, 1,823, 1175,937, 11%
+count : 2
+
+Non-Plated Hole Size, Pads, Vias
+    125.984mils, 4, 0
+count : 1
+
+Plated Hole Size, Pads, Vias
+    28.74mils, 48, 0
+    31.496mils, 2, 0
+    32mils, 96, 0
+    33.465mils, 40, 0
+    35mils, 30, 0
+    35.433mils, 72, 0
+    47.244mils, 8, 0
+    50mils, 3, 0
+    51.181mils, 9, 0
+    56.299mils, 4, 0
+count : 10
+
+Non-Plated Slot Size / Length, Pads
+count : 0
+
+Plated Slot Size / Length, Pads
+count : 0
+
+Non-Plated Square Hole Size, Pads
+count : 0
+
+Plated Square Hole Size, Pads
+count : 0
+
+Top Layer Annular Ring Size, Count
+    0mils, 4
+    15.748mils, 48
+    21.654mils, 42
+    23.622mils, 72
+    25mils, 3
+    25.591mils, 9
+    28.15mils, 4
+    31.496mils, 8
+    40.984mils, 30
+    72mils, 96
+count : 10
+
+Mid Layer Annular Ring Size, Count
+    0mils, 4
+    15.748mils, 48
+    21.654mils, 42
+    23.622mils, 72
+    25mils, 3
+    25.591mils, 9
+    28.15mils, 4
+    31.496mils, 8
+    40.984mils, 30
+    72mils, 96
+count : 10
+
+Bottom Layer Annular Ring Size, Count
+    0mils, 4
+    15.748mils, 48
+    21.654mils, 42
+    23.622mils, 72
+    25mils, 3
+    25.591mils, 9
+    28.15mils, 4
+    31.496mils, 8
+    40.984mils, 30
+    72mils, 96
+count : 10
+
+Pad Solder Mask, Count
+    4mils, 316
+count : 1
+
+Pad Paste Mask, Count
+    0mils, 316
+count : 1
+
+Pad Pwr/Gnd Expansion, Count
+    20mils, 316
+count : 1
+
+Pad Relief Conductor Width, Count
+    10mils, 316
+count : 1
+
+Pad Relief Air Gap, Count
+    10mils, 316
+count : 1
+
+Pad Relief Entries, Count
+    4, 316
+count : 1
+
+Via Solder Mask, Count
+count : 0
+
+Track Width, Count
+    1.969mils, 36
+    3.937mils, 30
+    5mils, 60
+    6mils, 42
+    7.874mils, 202
+    10mils, 4
+    15.748mils, 816
+count : 7
+
+Arc Line Width, Count
+    0mils, 6
+    1.969mils, 4
+    5mils, 12
+    6mils, 6
+    7.874mils, 8
+    11.024mils, 2
+count : 6
+
+Arc Radius, Count
+    3.937mils, 6
+    5.512mils, 2
+    10mils, 6
+    40mils, 6
+    78.74mils, 2
+    100mils, 12
+    109.843mils, 4
+count : 7
+
+Arc Degrees, Count
+    90, 16
+    122, 2
+    180, 6
+    360, 14
+count : 4
+
+Text Height, Count
+    60mils, 100
+count : 1
+
+Text Width, Count
+    10mils, 100
+count : 1
+
+Net Track Width, Count
+    15.748mils, 112
+count : 1
+
+Net Via Size, Count
+    51.181mils, 112
+count : 1

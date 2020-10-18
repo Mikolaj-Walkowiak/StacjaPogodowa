@@ -1,0 +1,10 @@
+Removed Pin From Net: NetName=NetBar+_1 Pin=R9-1
+Removed Member From Class: ClassName=main Member=R7
+Removed Member From Class: ClassName=main Member=R8
+Removed Member From Class: ClassName=main Member=R9
+Change Component Footprint: Designator=C6 Old Footprint=AXIAL-0.3 New Footprint=RAD-0.3
+Change Component Footprint: Designator=C7 Old Footprint=AXIAL-0.3 New Footprint=RAD-0.3
+Change Component Footprint: Designator=C8 Old Footprint=AXIAL-0.3 New Footprint=RAD-0.3
+Added Pin To Net: NetName=NetBar+_1 Pin=Bar+-2
+Added Pin To Net: NetName=NetBar+_1 Pin=Bar+-3
+Added Pin To Net: NetName=NetBar+_1 Pin=R10-2

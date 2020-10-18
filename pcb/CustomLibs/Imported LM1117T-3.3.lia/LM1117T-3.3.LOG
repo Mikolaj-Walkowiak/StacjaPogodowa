@@ -1,0 +1,28 @@
+PCAD Importer Log
+Project : LM1117T-3.3.LibPkg
+
+Section : C:\Users\mwalk\AppData\Local\Temp\Rar$DRa14064.16514\LM1117T-3.3.lia
+    Section : PCB Library - LM1117T-3.3.PcbLib
+        Section : Load Messages
+            Warning - 1 : Skipping Token LM1117T-3.3 On Line 125
+            Warning - 1 : Skipping Token attachedSymbol On Line 182
+        EndSection
+
+        Section : Import Messages
+        EndSection
+    EndSection
+
+    Section : SCH Library - LM1117T-3.3.SchLib
+        Section : Parsing Messages
+            Warning - 1 : Skipping Token padStyleDef On Line 9
+            Warning - 1 : Skipping Token padStyleDef On Line 21
+            Warning - 1 : Skipping Token multiLayer On Line 96
+            Warning - 1 : Skipping Token layerContents On Line 101
+            Warning - 1 : Skipping Token layerContents On Line 107
+            Warning - 1 : Skipping Token layerContents On Line 115
+        EndSection
+
+        Section : Generating SCH Library - LM1117T-3.3.SchLib
+        EndSection
+    EndSection
+EndSection
